@@ -4,6 +4,7 @@ const HTML_Router = require('express').Router()
 // Require path for HTML pathing
 const path = require('path')
 
+//! All request handlers
 // Get request to send all traffic to the index html file
 HTML_Router.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '../public/index.html'))
@@ -15,4 +16,4 @@ HTML_Router.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname + '../public/notes.html'))
 })
 
-module.exports = router;
+module.exports = HTML_Router;
