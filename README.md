@@ -6,10 +6,6 @@
 
 * [Screenshot-of-the-application](#screenshot-of-the-application)
 
-* [Screen-recording-of-the-functionality-of-the-app](#Screen-recording-of-the-functionality-of-the-app.)
-
-* [Examples-of-generated-Logos](#examples-of-generated-logos)
-
 * [Questions](#questions)
 
 # User Story
