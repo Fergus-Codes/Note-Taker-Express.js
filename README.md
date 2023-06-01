@@ -49,11 +49,12 @@ THis app allows the user to create, store and delete notes. The UI is simple and
 
 ![Screenshot of live application](https://github.com/Fergus-Codes/Note-Taker-Express.js/assets/124581010/d6a975fe-2ac6-4ae2-b67b-c12c780d2bd9)
 
+![Screenshot of live application notes page](https://github.com/Fergus-Codes/Note-Taker-Express.js/assets/124581010/1d231c12-1772-4057-b87f-8d3fe5f09f41)
 
 
+# Link to deployed application on Heroku.
 
-# Screen recording of the functionality of the app.
-
+https://mighty-refuge-19223.herokuapp.com/
 
 # Questions
 
