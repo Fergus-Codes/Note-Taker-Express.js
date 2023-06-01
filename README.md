@@ -40,11 +40,14 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 # Description
+This note taker application was built using express & node Javascript, Javascript, css and html. It has been deployed on heroku so that it is easy to use.
+THis app allows the user to create, store and delete notes. The UI is simple and easy to use, which allows the user to add notes without trouble.
 
 
 
 # Screenshot of the application
 
+![Screenshot of live application](https://github.com/Fergus-Codes/Note-Taker-Express.js/assets/124581010/d6a975fe-2ac6-4ae2-b67b-c12c780d2bd9)
 
 
 
